@@ -1,4 +1,14 @@
         /*
-        Primera práctica de página web
+        Aquí hemos diseñado el color de los encabezados 
         */
-        h1 {color:blue}
+        h1{
+                font: size 40pt;
+        }
+        h1{
+                color:brown;
+                background-color:aqua;
+                font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        }
+        body{
+                background-color:aqua;
+        }
