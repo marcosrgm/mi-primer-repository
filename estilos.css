@@ -6,9 +6,9 @@
         }
         h1,h2,h3,h4,h5{
                 color:brown;
-                background-color:aqua;
+                background-color:rgb(255, 255, 255);
                 font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
         }
         body{
-                background-color:rgb(12, 12, 12);
+                background-color:rgb(255, 255, 255);
         }
